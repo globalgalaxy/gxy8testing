@@ -9,10 +9,10 @@
   "NFT_NAME": "Global Galaxy 2022 Collectable NFT",
   "SYMBOL": "GXY8",
   "MAX_SUPPLY": 1500,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/yyy",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/global-galaxy-2022-v3",
   "SHOW_BACKGROUND": true
 }
