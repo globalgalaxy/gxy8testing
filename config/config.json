@@ -2,9 +2,9 @@
   "CONTRACT_ADDRESS": "0xBbf411eE810F8235E1b9f54904591d96f0585348",
   "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xBbf411eE810F8235E1b9f54904591d96f0585348",
   "NETWORK": {
-    "NAME": "Global Galaxy 2022 Collectable NFT",
-    "SYMBOL": "GXY8",
-    "ID": 4
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
   "NFT_NAME": "Global Galaxy 2022 Collectable NFT",
   "SYMBOL": "GXY8",
